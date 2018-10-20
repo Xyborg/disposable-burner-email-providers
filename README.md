@@ -1,7 +1,4 @@
-# disposable-burner-email-providers
-A list of disposable/temporary/burner email address domains
-
-## Disposable/burner email providers domains
+## Disposable/temporary/burner email providers domains
 
 My little collection of domains for disposable email services.
 
