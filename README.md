@@ -2,6 +2,8 @@
 
 My little collection of domains for disposable email services.
 
+#Updated# 7/14/2019 - 16304 disposable email services domains.
+
 ### Why?
 
 Use it to validate email addresses on sign up, or just to see how many real email addresses you have in your system.
