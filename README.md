@@ -2,7 +2,7 @@
 
 My little collection of domains for disposable email services.
 
-#Updated# 7/14/2019 - 16304 disposable email services domains.
+#### Updated 7/14/2019 - 16304 disposable email services domains.
 
 ### Why?
 
