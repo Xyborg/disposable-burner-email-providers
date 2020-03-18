@@ -4882,7 +4882,6 @@ nine.fackme.gq
 two.emailfake.ml
 seven.fackme.gq
 docmail.cz
-protonmail.com
 *.onlysext.com
 *.uu.gl
 throwawaymail.uu.gl
