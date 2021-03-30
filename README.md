@@ -2,6 +2,7 @@
 
 My little collection of domains for disposable email services.
 
+#### Updated 29/3/2021 - 2 more domains added.
 #### Updated 11/4/2020 - 4 more domains added.
 #### Updated 3/18/2020 - Protonmail removed from the domains list as it is a legit email service provider.
 #### Updated 7/14/2019 - 16304 disposable email services domains.
