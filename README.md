@@ -4,6 +4,7 @@ My little collection of domains for disposable email services.
 
 Disposable email address (DEA) is a temporary, throw-away address that expires after a short period of time. DEA provider websites offer a service where users can generate a temporary email address (with about a 10 minute lifespan, for example). Some of the most common DEA providers are 10 Minute Mail, Temp-Mail, and Fake Inbox.
 
+#### Updated 6/1/2024 - Added 1 new domains.
 #### Updated 27/4/2023 - Added 48 new domains.
 #### Updated 30/3/2021 - Added 21,446 new domains, removed duplicates and invalid domains.
 #### Updated 29/3/2021 - 2 more domains added.
